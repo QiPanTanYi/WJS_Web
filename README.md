@@ -2,6 +2,8 @@
 
 本项目为纯前端开发，使用了 Bootstrap 3 响应式框架编写，即不同的屏幕大小下显示不同的效果。
 
+站点演示：[《微金所》](https://qipantanyi.github.io/WJS_Web/#)
+
 ### 大屏幕尺寸显示（≥1200px）
 
 ![01](Document/p1.png)
